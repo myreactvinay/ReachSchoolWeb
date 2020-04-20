@@ -17,7 +17,10 @@ class Hero extends React.Component {
               data-slide-to="0"
               class="active"
             ></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li
+              data-target="#carouselExampleIndicators myname"
+              data-slide-to="1"
+            ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           </ol>
           <div className="carousel-inner">
