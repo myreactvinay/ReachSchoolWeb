@@ -1,13 +1,17 @@
 import React from "react";
 import "./App.css";
 import Hero from "./Components/Hero.js";
+import Cards from "./Components/Cards.js";
+import data from "./data.json";
+
+const HeroImages = data.HeroImagesOne;
+const CardsData = data.Experiences;
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Hero />
-      </header>
+      <Hero HImages={HeroImages} />
+      <Cards CardsDataContent={CardsData} />
     </div>
   );
 }

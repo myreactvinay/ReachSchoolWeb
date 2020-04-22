@@ -1,9 +1,8 @@
 import React from "react";
-import data from "../data.json";
 
-const socialmedia = data.SocialMedias;
 class Hero extends React.Component {
   render() {
+    const HeroImages = this.props.HImages;
     return (
       <div>
         <div
@@ -24,7 +23,7 @@ class Hero extends React.Component {
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           </ol>
           <div className="carousel-inner">
-            {socialmedia.map((imgsrc, index) => (
+            {HeroImages.map((imgsrc, index) => (
               <div
                 className={
                   index === 0 ? "carousel-item active" : "carousel-item"
