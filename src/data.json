@@ -1,5 +1,5 @@
 {
-  "SocialMedias": [
+  "HeroImagesOne": [
     "https://upload.wikimedia.org/wikipedia/commons/7/71/Milna%2C_Bra%C4%8D%2C_Hrvatska_-_Blata%C5%A1ka_riva_800x400.jpg",
     "https://www.wakeupwithzest.com/wp-content/uploads/2018/04/website-images-800-x-400-px-2.png",
     "http://tdinteriorsinc.com/wp-content/uploads/2013/03/landscape-7-800x400.jpg"
@@ -11,11 +11,10 @@
       "url": "https://www.google.com/",
       "roles": [
         {
-          "title": "Full Stack Developer",
-          "description": "Built and updated various Chrome Extensions.",
-          "startDate": "2017-01-01",
-          "endDate": "2017-05-01",
-          "location": "New York, USA"
+          "title": "Google",
+          "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, and Microsoft.",
+          "ctaText": "Google",
+          "ctaURL": "htpps://www.google.com"
         }
       ]
     },
@@ -25,11 +24,23 @@
       "url": "https://www.google.com/",
       "roles": [
         {
-          "title": "UI Designer",
-          "description": "Design user-fridendly web page",
-          "startDate": "2016-05-01",
-          "endDate": "2016-09-01",
-          "location": "Beijing, China"
+          "title": "Facebook",
+          "description": "Facebook is a social networking site that makes it easy for you to connect and share with family and friends online. Originally designed for college students, Facebook was created in 2004 by Mark Zuckerberg while he was enrolled at Harvard University.",
+          "ctaText": "Facebook",
+          "ctaURL": "htpps://www.facebook.com"
+        }
+      ]
+    },
+    {
+      "companyName": "Demo2 Technologies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Microsoft",
+          "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+          "ctaText": "Microsoft",
+          "ctaURL": "htpps://www.microsoft.com"
         }
       ]
     }
