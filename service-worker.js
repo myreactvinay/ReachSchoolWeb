@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReachSchoolWeb/precache-manifest.65834105cc89721baa0fd924e437d04f.js"
+  "/ReachSchoolWeb/precache-manifest.19e1ba7c48051b3258d17932848f9045.js"
 );
 
 self.addEventListener('message', (event) => {
