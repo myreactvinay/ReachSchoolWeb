@@ -13,11 +13,15 @@ class Cards extends Component {
     const { length } = this.state.countcards;
     return (
       <div className="container">
-        <div className="row">
+        <div className="row py-5">
           {CardsNewdata.map((experience, index) => (
             <React.Fragment>
               {experience.roles.map((datacard, index) => (
-                <div className={length === 3 ? "col-md-4" : "col-md-6"}>
+                <div
+                  className={
+                    length === 3 ? "col-md-4 text-left" : "col-md-6 text-left"
+                  }
+                >
                   <h2>{datacard.title}</h2>
                   <p>{datacard.description}</p>
                   <p>

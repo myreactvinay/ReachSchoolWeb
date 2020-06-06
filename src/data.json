@@ -1,8 +1,8 @@
 {
   "HeroImagesOne": [
-    "https://upload.wikimedia.org/wikipedia/commons/7/71/Milna%2C_Bra%C4%8D%2C_Hrvatska_-_Blata%C5%A1ka_riva_800x400.jpg",
-    "https://www.wakeupwithzest.com/wp-content/uploads/2018/04/website-images-800-x-400-px-2.png",
-    "http://tdinteriorsinc.com/wp-content/uploads/2013/03/landscape-7-800x400.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/Panorma_from_Brickell_Key_bridge_120313-2-jikatu.jpg",
+    "https://www.newriverelectrical.com/wp-content/uploads/2015/11/nre-default-underground-1280x350.jpg",
+    "https://ellenaltshuler.nz/wp-content/uploads/2016/02/quote-background-1280x350.jpg"
   ],
   "Experiences": [
     {
@@ -43,6 +43,170 @@
           "ctaURL": "htpps://www.microsoft.com"
         }
       ]
+    }
+  ],
+  "About": [
+    {
+      "Heading": "Hello, world!",
+      "Paragraph": "This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    }
+  ],
+  "ImageCap": [
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/286X180",
+      "Title": "Card title",
+      "Paragraph": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "CtaText": "Learn more",
+      "CtaUrl": "https://www.gmail.com"
     }
   ],
   "Skills": [
